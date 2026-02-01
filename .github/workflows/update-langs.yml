@@ -1,0 +1,34 @@
+name: Update Top Languages
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  
+  workflow_dispatch:  
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        pip install PyGithub matplotlib
+
+    - name: Generate Top Languages chart
+      run: |
+        python scripts/generate_top_langs.py
+
+    - name: Commit and push
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git add assets/top-langs.svg
+        git commit -m "Update Top Languages chart [skip ci]" || echo "No changes to commit"
+        git push
