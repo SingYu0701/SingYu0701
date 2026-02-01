@@ -5,23 +5,26 @@ import os
 
 
 g = Github(os.environ["GITHUB_TOKEN"])
-user = g.get_user("SingYu0701") 
-
+user = g.get_user("SingYu0701")
 
 langs = []
+
+print("Fetching repos...")
+
 for repo in user.get_repos():
-    if not repo.fork and repo.language:  
+    print(f"Repo: {repo.name}, fork: {repo.fork}, language: {repo.language}")
+    if not repo.fork and repo.language:
         langs.append(repo.language)
 
 if not langs:
-    print("No languages found.")
+    print("No languages found. Exiting.")
     exit(0)
 
+print(f"Languages found: {langs}")
 
 counter = Counter(langs)
 labels = list(counter.keys())
 sizes = list(counter.values())
-
 
 plt.figure(figsize=(6,6))
 plt.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=140)
