@@ -58,4 +58,4 @@
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SingYu0701&layout=donut-vertical&hide=html,jupyter%20notebook)
+![Top Languages](assets/top-langs.svg)
