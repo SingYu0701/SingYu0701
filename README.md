@@ -58,8 +58,4 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingYu0701&layout=compact&hide_border=true&bg_color=00000000&title_color=4A6FA5&text_color=555555"
-  />
-</p>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SingYu0701&layout=donut-vertical&hide=html,jupyter%20notebook)
