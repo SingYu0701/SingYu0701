@@ -2,8 +2,9 @@
 
 📍 Kaohsiung, Taiwan  
 🔗 https://github.com/SingYu0701  
-📫 a0987251328@gmail.com
+✉️ a0987251328@gmail.com
 
+![Top Langs](https://github-states-generator.vercel.app/api/top-langs/?username=SingYu0701&show_icons=true&hide_border=true&title_color=09ae8d)
 ---
 
 ## Education
@@ -54,8 +55,4 @@
 - **Programming**: R, SAS, Python
 - **Tools**: Power BI, Excel (VBA), Minitab, Tableau  
 - **Languages**: Mandarin (Native), English (TOEIC 750)
----
 
-## GitHub Stats
-
-![Top Languages](assets/top-langs.svg)
