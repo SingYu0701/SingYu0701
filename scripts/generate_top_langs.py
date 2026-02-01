@@ -3,9 +3,9 @@ import matplotlib.pyplot as plt
 from collections import Counter
 import os
 
-# 使用 GitHub Actions 自帶的 GITHUB_TOKEN
+
 g = Github(os.environ["GITHUB_TOKEN"])
-user = g.get_user("SingYu0701")  # 改成你的 GitHub 帳號
+user = g.get_user("SingYu0701") 
 
 
 langs = []
