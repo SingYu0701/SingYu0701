@@ -1,0 +1,35 @@
+from github import Github
+import matplotlib.pyplot as plt
+from collections import Counter
+import os
+
+# 使用 GitHub Actions 自帶的 GITHUB_TOKEN
+g = Github(os.environ["GITHUB_TOKEN"])
+user = g.get_user("SingYu0701")  # 改成你的 GitHub 帳號
+
+
+langs = []
+for repo in user.get_repos():
+    if not repo.fork and repo.language:  
+        langs.append(repo.language)
+
+if not langs:
+    print("No languages found.")
+    exit(0)
+
+
+counter = Counter(langs)
+labels = list(counter.keys())
+sizes = list(counter.values())
+
+
+plt.figure(figsize=(6,6))
+plt.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=140)
+plt.title("Top Languages")
+plt.tight_layout()
+
+os.makedirs("assets", exist_ok=True)
+plt.savefig("assets/top-langs.svg")
+plt.close()
+
+print("Top Languages chart generated successfully.")
