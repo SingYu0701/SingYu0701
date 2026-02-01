@@ -1,16 +1,65 @@
-## Hi there 👋
+# SingYu Bao (Celeste)
 
-<!--
-**SingYu0701/SingYu0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Kaohsiung, Taiwan  
+🔗 https://github.com/SingYu0701  
+📫 a0987251328@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- **M.S. in Resources Engineering**, National Cheng Kung University  
+  Feb 2025 – Jan 2026 ｜ GPA: 4.22 / 4.3  
+  Coursework & focus: interindustry economicss, machine learning, operations research, and climate-related data analysis.
+
+- **B.B.A. in Statistics**, National Cheng Kung University  
+  Feb 2022 – Jun 2024 ｜ GPA: 3.76 / 4.3  
+  Training in statistical modeling, regression analysis, multivariate analysis,and spatio-temporal analytics.
+
+- **B.B.A. in Money and Banking**, National Kaohsiung University of Science and Technology  
+  Sep 2020 – Jan 2022 ｜ GPA: 3.96 / 4.0  
+  Focus on finance fundamentals, quantitative methods, and applied data analysis using Excel and VBA.
+
+---
+
+## Experience
+- **Research Assistant**, Department of Statistics, NCKU  
+  Jan 2024 – Dec 2024  
+  - Field data collection and dataset construction  
+  - Data cleaning and statistical analysis using R  
+  - Coordination with research teams and supervisors  
+
+- **Undergraduate Research Assistant**, Department of Statistics, NCKU  
+  Sep 2023 – Jun 2024  
+  - Missing data imputation using EM algorithm  
+  - Applied statistical modeling to medical datasets  
+
+---
+
+## Projects
+- **Compound Drought and Heatwave Analysis in Taiwan**  
+  Bayesian time series decomposition and copula probabilistic modeling
+
+- **Groundwater Level Prediction**  
+  LSTM / BiLSTM / CNN-LSTM model comparison across temporal resolutions
+
+- **Carbon Pricing Impacts on Transportation Sector**  
+  Input–output analysis with linear programming optimization
+
+- **Traffic Accident Risk & Spatial Analysis**  
+  Logistic regression, spatial clustering, and kriging-based analysis
+
+---
+
+## Skills
+- **Programming**: R, SAS, Python
+- **Tools**: Power BI, Excel (VBA), Minitab, Tableau  
+- **Languages**: Mandarin (Native), English (TOEIC 750)
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingYu0701&layout=compact&hide_border=true&bg_color=00000000&title_color=4A6FA5&text_color=555555"
+  />
+</p>
