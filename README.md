@@ -41,7 +41,7 @@
 - **Compound Drought and Heatwave Analysis in Taiwan**  
   Bayesian time series decomposition and copula probabilistic modeling
 
--**Deep RL–Based Preventive Maintenance Optimization**
+- **Deep RL–Based Preventive Maintenance Optimization**
   DDQN-based maintenance decision optimization via scenario-based simulation
 
 - **Carbon Pricing Impacts on Transportation Sector**  
