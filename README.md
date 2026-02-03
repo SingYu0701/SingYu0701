@@ -41,11 +41,14 @@
 - **Compound Drought and Heatwave Analysis in Taiwan**  
   Bayesian time series decomposition and copula probabilistic modeling
 
-- **Groundwater Level Prediction**  
-  LSTM / BiLSTM / CNN-LSTM model comparison across temporal resolutions
+-**Deep RL–Based Preventive Maintenance Optimization**
+  DDQN-based maintenance decision optimization via scenario-based simulation
 
 - **Carbon Pricing Impacts on Transportation Sector**  
   Input–output analysis with linear programming optimization
+
+- **Groundwater Level Prediction**  
+  LSTM / BiLSTM / CNN-LSTM model comparison across temporal resolutions
 
 - **Traffic Accident Risk & Spatial Analysis**  
   Logistic regression, spatial clustering, and kriging-based analysis
