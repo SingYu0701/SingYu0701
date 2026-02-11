@@ -2,7 +2,7 @@
 
 - Based in **Kaohsiung, Taiwan**  
 - https://github.com/SingYu0701  
-- a0987251328@gmail.com
+- celeste.singyu@gmail.com
 - **Aspiring to work in Hong Kong**
 
 ![Top Langs](https://github-states-generator.vercel.app/api/top-langs/?username=SingYu0701&show_icons=true&hide_border=true&title_color=09ae8d)
