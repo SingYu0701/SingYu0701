@@ -12,6 +12,7 @@
 - **M.S. in Resources Engineering**, National Cheng Kung University  
   Feb 2025 – Jan 2026 ｜ GPA: 4.22 / 4.3  
   Coursework & focus: interindustry economicss, machine learning, operations research, and climate-related data analysis.
+  
   Graduated early due to outstanding academic performance and accelerated completion of thesis research; research abstract accepted for JpGU–AGU Joint Meeting 2026 (oral presentation); manuscript submitted to Climate Services (Q1, under review).
 
 - **B.B.A. in Statistics**, National Cheng Kung University  
