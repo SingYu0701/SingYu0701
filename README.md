@@ -3,11 +3,14 @@
 - Based in **Kaohsiung, Taiwan**  
 - https://github.com/SingYu0701  
 - celeste.singyu@gmail.com
-- **Aspiring to work in Hong Kong**
+- **Dream to work in Hong Kong airpoet**
 
 ---
 
 ## Projects
+- [**Airline Network Analysis (HKG vs SIN)**](https://github.com/SingYu0701/Global-Airline-Network-Analysis-HKG-vs-SIN-)  
+Network-based analysis using graph theory, centrality metrics, and entropy measures to evaluate hub connectivity, route concentration, and their relationship with World Bank air freight indicators.
+
 - [**Compound Drought and Heatwave Analysis in Taiwan**](https://github.com/SingYu0701/Analyze-the-Characteristics-of-CDHEs-in-Taiwan-and-Their-Potential-Impacts-on-Environmental-Resource)  
   Bayesian time series decomposition and copula probabilistic modeling
 
