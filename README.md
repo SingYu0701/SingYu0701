@@ -5,7 +5,24 @@
 - celeste.singyu@gmail.com
 - **Aspiring to work in Hong Kong**
 
-![Top Langs](https://github-states-generator.vercel.app/api/top-langs/?username=SingYu0701&show_icons=true&hide_border=true&title_color=09ae8d)
+---
+
+## Projects
+- [**Compound Drought and Heatwave Analysis in Taiwan**](https://github.com/SingYu0701/Analyze-the-Characteristics-of-CDHEs-in-Taiwan-and-Their-Potential-Impacts-on-Environmental-Resource)  
+  Bayesian time series decomposition and copula probabilistic modeling
+
+- [**Deep RL–Based Preventive Maintenance Optimization**](https://github.com/SingYu0701/Deep-Reinforcement-Learning-for-PM-in-Flow-Line-Manufacturing-Systems-with-scenario-comparison)  
+  DDQN-based maintenance decision optimization via scenario-based simulation
+
+- [**Carbon Pricing Impacts on Transportation Sector**](https://github.com/SingYu0701/Carbon-Pricing-Impacts-on-Taiwan-Transportation-Sector-IO-and-Optimization-Based-Exercise)  
+  Input–output analysis with linear programming optimization to evaluate the cost impact
+
+- [**Groundwater Level Prediction**](https://github.com/SingYu0701/Comparative-Analysis-of-LSTM-Based-Models-for-Groundwater-Level-Prediction-in-Yunlin-Taiwan)  
+  LSTM / BiLSTM / CNN-LSTM / CNN-BiLSTM model comparison across temporal resolutions
+
+- [**Traffic Accident Risk & Spatial Analysis**](https://github.com/SingYu0701/Ordinary-Kriging-Analysis-of-Traffic-Accidents-and-Emergency-Rescue-Risk-Simulation-in-Tainan-City)  
+  Logistic regression, spatial clustering, and kriging-based analysis
+
 ---
 
 ## Education
@@ -35,24 +52,6 @@
   Sep 2023 – Jun 2024  
   - Missing data imputation using EM algorithm  
   - Applied statistical modeling to medical datasets  
-
----
-
-## Projects
-- **Compound Drought and Heatwave Analysis in Taiwan**  
-  Bayesian time series decomposition and copula probabilistic modeling
-
-- **Deep RL–Based Preventive Maintenance Optimization**  
-  DDQN-based maintenance decision optimization via scenario-based simulation
-
-- **Carbon Pricing Impacts on Transportation Sector**  
-  Input–output analysis with linear programming optimization
-
-- **Groundwater Level Prediction**  
-  LSTM / BiLSTM / CNN-LSTM model comparison across temporal resolutions
-
-- **Traffic Accident Risk & Spatial Analysis**  
-  Logistic regression, spatial clustering, and kriging-based analysis
 
 ---
 
