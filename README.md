@@ -8,7 +8,7 @@
 ---
 
 ## Projects
-- [**Airline Network Analysis (HKG vs SIN)**](https://github.com/SingYu0701/HKG-vs-SIN-Hub-Competition-Connectivity-Air-Cargo-Insights) 
+- [**Airline Network Analysis (HKG vs SIN)**](https://github.com/SingYu0701/HKG-vs-SIN-Hub-Competition-Connectivity-Air-Cargo-Insights)  
 Network-based analysis using graph theory, centrality metrics, and entropy measures to evaluate hub connectivity, route concentration, and their relationship with World Bank air freight indicators.
 
 - [**Compound Drought and Heatwave Analysis in Taiwan**](https://github.com/SingYu0701/Analyze-the-Characteristics-of-CDHEs-in-Taiwan-and-Their-Potential-Impacts-on-Environmental-Resource)  
