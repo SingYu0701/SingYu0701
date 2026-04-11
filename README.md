@@ -8,6 +8,9 @@
 ---
 
 ## Projects
+- [**Airline Route Profitability Analysis (HKG)**](https://github.com/SingYu0701/Airline-Network-Profitability-Route-Strategy-Optimization-HKG-)  
+Network-based analysis using OpenFlights and World Bank data to evaluate route profitability and derive strategic insights for network planning, including route segmentation and market prioritization.
+
 - [**Airline Network Analysis (HKG vs SIN)**](https://github.com/SingYu0701/HKG-vs-SIN-Hub-Competition-Connectivity-Air-Cargo-Insights)  
 Network-based analysis using graph theory, centrality metrics, and entropy measures to evaluate hub connectivity, route concentration, and their relationship with World Bank air freight indicators.
 
