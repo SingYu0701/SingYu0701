@@ -33,17 +33,18 @@ Network-based analysis using graph theory, centrality metrics, and entropy measu
 
 ## Education
 - **M.S. in Resources Engineering**, National Cheng Kung University  
-  Feb 2025 – Jan 2026 ｜ GPA: 4.22 / 4.3  
-  Coursework & focus: interindustry economicss, machine learning, operations research, and climate-related data analysis.  
-  Graduated early due to outstanding academic performance and accelerated completion of thesis research; research abstract accepted for JpGU–AGU Joint Meeting 2026 (oral presentation); manuscript submitted to Climate Services (Q1, under review).
+  Feb 2025 – Jan 2026 ｜ GPA: 4.22 / 4.3
+  - Academic Excellence Award (**Top 3%** of Graduating Class, Phi Tau Phi)
+  - Coursework & focus: interindustry economicss, machine learning, operations research, and climate-related data analysis.  
+  - **Graduated early** due to outstanding academic performance and accelerated completion of thesis research; research abstract accepted for **JpGU–AGU Joint Meeting 2026 (oral presentation)**; manuscript submitted to **Climate Services (Q1, under review)**.
 
 - **B.B.A. in Statistics**, National Cheng Kung University  
   Feb 2022 – Jun 2024 ｜ GPA: 3.76 / 4.3  
-  Training in statistical modeling, regression analysis, multivariate analysis,and spatio-temporal analytics.
+  - Training in statistical modeling, regression analysis, multivariate analysis,and spatio-temporal analytics.
 
 - **B.B.A. in Money and Banking**, National Kaohsiung University of Science and Technology  
   Sep 2020 – Jan 2022 ｜ GPA: 3.96 / 4.0  
-  Focus on finance fundamentals, quantitative methods, and applied data analysis using Excel and VBA.
+  - Focus on finance fundamentals, quantitative methods, and applied data analysis using Excel and VBA.
 
 ---
 
