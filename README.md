@@ -8,6 +8,10 @@
 ---
 
 ## Projects
+
+- [**Aviation Economics & Fuel Risk Analysis (HKG)**](https://github.com/SingYu0701/Aviation-Fuel-Cost-Structure-Analysis-HKG-Case-Study-)  
+Aviation cost structure model quantifying fuel, SAF, and carbon cost exposure in Hong Kong aviation operations. Evaluates unit economics (CASK/RASK), scenario-based profitability, and tail-risk using Monte Carlo simulation under macroeconomic shocks.
+
 - [**Airline Route Profitability Analysis (HKG)**](https://github.com/SingYu0701/Airline-Network-Profitability-Route-Strategy-Optimization-HKG-)  
 Network-based analysis using OpenFlights and World Bank data to evaluate route profitability and derive strategic insights for network planning, including route segmentation and market prioritization.
 
