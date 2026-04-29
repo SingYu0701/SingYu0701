@@ -3,7 +3,7 @@
 - Based in **Kaohsiung, Taiwan**  
 - https://github.com/SingYu0701  
 - celeste.singyu@gmail.com
-- **Dream to work in Hong Kong airport**
+- **Dream to work in Hong Kong**
 
 ---
 
