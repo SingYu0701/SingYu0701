@@ -3,7 +3,8 @@
 - Based in **Kaohsiung, Taiwan**  
 - https://github.com/SingYu0701  
 - celeste.singyu@gmail.com
-- **Dream to work in Hong Kong**
+- Seeking opportunities in **Hong Kong & Singapore** in **data-driven operations**.
+- **Open to Relocation; Visa Sponsorship Required**
 
 ---
 
