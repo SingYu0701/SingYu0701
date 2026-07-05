@@ -3,9 +3,7 @@
 - Based in **Kaohsiung, Taiwan**  
 - https://github.com/SingYu0701  
 - celeste.singyu@gmail.com
-- Seeking opportunities in **Hong Kong & Singapore** in **data-driven operations**.
-- **Open to Relocation; Visa Sponsorship Required**
-
+- Ph.D. Student in Resources Engineering (Specializing in **Energy Economics & Statistics**)
 ---
 
 ## Projects
@@ -41,7 +39,7 @@ Network-based analysis using graph theory, centrality metrics, and entropy measu
   Feb 2025 – Jan 2026 ｜ GPA: 4.22 / 4.3
   - Academic Excellence Award (**Top 3%** of Graduating Class, Phi Tau Phi)
   - Coursework & focus: interindustry economicss, machine learning, operations research, and climate-related data analysis.  
-  - **Graduated early** due to outstanding academic performance and accelerated completion of thesis research; research abstract accepted for **JpGU–AGU Joint Meeting 2026 (oral presentation)**; manuscript submitted to **Climate Services (Q1, under review)**.
+  - **Graduated early** due to outstanding academic performance and accelerated completion of thesis research; research abstract accepted for **JpGU–AGU Joint Meeting 2026 (oral presentation)**; manuscript currently under review.
 
 - **B.B.A. in Statistics**, National Cheng Kung University  
   Feb 2022 – Jun 2024 ｜ GPA: 3.76 / 4.3  
